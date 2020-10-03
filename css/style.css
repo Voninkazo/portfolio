@@ -2,4 +2,13 @@ html {}
 
 body {
     font-family: 'Open Sans Regular';
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }
